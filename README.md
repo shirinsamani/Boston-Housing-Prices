@@ -1,5 +1,5 @@
 # Boston-Housing-Prices
-This is a prediction project using a modified version of the Boston housing dataset provided by [Udacity](https://github.com/udacity/machine-learning/tree/master/projects/boston_housing/). Original data set can be found on the [UCI Machine Learning Repository](https://archive-beta.ics.uci.edu/).
+This is a prediction project using a modified version of the Boston housing dataset provided by [Udacity](https://github.com/udacity/machine-learning/tree/master/projects/boston_housing/). Original data set can be found on the [Kaggle](https://www.kaggle.com/datasets/jamieleech/boston-housing-dataset).
 
 ### Data
 
